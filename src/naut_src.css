@@ -2042,6 +2042,7 @@ body.comments-page > .content {
 }
 .commentarea>.usertext textarea:not(:focus) {
     background: url(%%commentboxbg%%) no-repeat 50% 50%;
+		background: none;
 }
 .usertext .bottom-area {
     width: 504px;
